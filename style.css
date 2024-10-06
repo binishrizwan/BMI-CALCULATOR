@@ -10,4 +10,16 @@
     justify-content: center;
     align-items: center;
     margin-top: 250px;
+    flex-direction: column;
+    
+}
+#weight {
+    margin-top: 10px;
+}
+
+#height {
+  margin-top: 10px;
+}
+#button {
+    margin-top: 20px;
 }
