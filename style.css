@@ -1,7 +1,7 @@
 *{
     margin: 0;
     padding: 0;
-   
+    background-color: rgb(41, 40, 40);
 }
 
 
@@ -15,11 +15,43 @@
 }
 #weight {
     margin-top: 10px;
+    bottom: 5px solid white;
+    border-radius: 5px;
+    border-color: bisque;
+    height: 20px;
+    width: 200px;
+    
 }
 
 #height {
-  margin-top: 10px;
+  margin-top: 20px;
+  bottom: 5px solid white;
+    border-radius: 5px;
+    border-color: bisque;
+    height: 20px;
+    width: 200px;
 }
+
+
+
+
+
+
 #button {
-    margin-top: 20px;
+    margin-top: 60px;
+    border-radius: 5px;
+    
+    border-color: bisque;
+    color:rgb(134, 184, 48); ;
+}
+
+h1 {
+    color: rgb(134, 184, 48);
+}
+
+div button{
+    border-radius: 5px;
+    
+    border-color: bisque;
+    color:rgb(134, 184, 48); ;
 }
