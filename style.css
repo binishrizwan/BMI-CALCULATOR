@@ -1,7 +1,7 @@
 *{
     margin: 0;
     padding: 0;
-    background-color: rgb(41, 40, 40);
+    background-color:rgb(34, 58, 35) ;
 }
 
 
@@ -18,7 +18,7 @@
     bottom: 5px solid white;
     border-radius: 5px;
     border-color: bisque;
-    height: 20px;
+    height: 30px;
     width: 200px;
     
 }
@@ -28,7 +28,7 @@
   bottom: 5px solid white;
     border-radius: 5px;
     border-color: bisque;
-    height: 20px;
+    height: 30px;
     width: 200px;
 }
 
@@ -53,5 +53,7 @@ div button{
     border-radius: 5px;
     
     border-color: bisque;
-    color:rgb(134, 184, 48); ;
+    color:rgb(134, 184, 48); 
+    width: 100px;
+    height: 30px;
 }
