@@ -1,7 +1,15 @@
 *{
     margin: 0;
     padding: 0;
-    background-color:rgb(34, 58, 35) ;
+    /* background-color:rgb(34, 58, 35) ; */
+    background-image: url(./240_F_477623043_4uEb9RtQlyojnw8nkqP1zH8tenQhHbvB.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: contain;
+    
+    
+    
 }
 
 
@@ -20,6 +28,7 @@
     border-color: bisque;
     height: 30px;
     width: 200px;
+    border-color:rgb(91, 145, 206) ;
     
 }
 
@@ -27,33 +36,49 @@
   margin-top: 20px;
   bottom: 5px solid white;
     border-radius: 5px;
-    border-color: bisque;
+    border-color:rgb(91, 145, 206) ;
     height: 30px;
     width: 200px;
 }
 
+#height :hover{
+    border-color: orange;
+}
+
+#weight :hover{
+    border-color: orange;
+}
+ 
 
 
-
-
-
-#button {
+#buttondiv {
+    
     margin-top: 60px;
     border-radius: 5px;
-    
-    border-color: bisque;
-    color:rgb(134, 184, 48); ;
 }
+    
+   
 
 h1 {
-    color: rgb(134, 184, 48);
+    color: rgb(91, 145, 206);
+    font-weight: 400;
+   
 }
 
-div button{
-    border-radius: 5px;
-    
-    border-color: bisque;
-    color:rgb(134, 184, 48); 
-    width: 100px;
+ 
+
+#button{
+    border-radius: 5px; 
+    border-color:rgb(91, 145, 206) ;
+     width: 100px;
     height: 30px;
+    color: rgb(91, 145, 206);
+  
+    
 }
+
+#buttondiv :hover{
+    border-color: orange;
+}
+
+
